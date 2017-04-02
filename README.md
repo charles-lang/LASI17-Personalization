@@ -1,6 +1,6 @@
 # Advance Preparation Instructions
 
-
+##Minimum Preparation
 As advanced preparation you will be setting up the software and online tools that you will be using throughout the workshop. Below there are links and instructions to relevant sites.
 
 1. The first stop is to create a personal [Github account](https://github.com/join?source=header)
@@ -48,7 +48,12 @@ The a fix for most systems is:
 
 If you are using a Mac and this does not fix your error please try [these instructions](https://github.com/core-methods-in-edm/Assignment1/blob/master/MAc%20Github%20help%20pages.pdf).
 
+##For Those New To R
 
+1. Open RStudio  
+2. Install the swirl package (library) by clicking on the "Packages" tab in the lower right hand panel and clicking on "Install"
+3. Type "swirl" in the text box and click "Install"
+4. Type `library(swirl)`
 
 
  
