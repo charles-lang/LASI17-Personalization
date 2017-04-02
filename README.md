@@ -48,12 +48,15 @@ The a fix for most systems is:
 
 If you are using a Mac and this does not fix your error please try [these instructions](https://github.com/core-methods-in-edm/Assignment1/blob/master/MAc%20Github%20help%20pages.pdf).
 
-##For Those New To R
+# For Those New To R
+
+[Swirl](http://swirlstats.com/) is a little AI teacher to help you get off the ground with R quickly. You will need to install swirl and then follow along through the exercises. 
 
 1. Open RStudio  
 2. Install the swirl package (library) by clicking on the "Packages" tab in the lower right hand panel and clicking on "Install"
 3. Type "swirl" in the text box and click "Install"
-4. Type `library(swirl)`
+4. Type `library(swirl)` and press enter
+5. Follow the prompts and complete the first unit of the program (more if you want though!) 
 
 
  
