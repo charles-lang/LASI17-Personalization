@@ -1,3 +1,12 @@
+# Data Exercise
+
+Download data from the following [link](https://github.com/bkoester/PLA/tree/master/data)
+
+Familiarize yourself with the variables.
+
+Design a personalization strategy that would use this data, include a narrative, operational and validiation model.
+
+
 # Advance Preparation Instructions
 
 ##Minimum Preparation
