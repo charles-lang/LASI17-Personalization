@@ -1,6 +1,6 @@
 # Data Exercise
 
-Download data from the following [link](https://github.com/bkoester/PLA/tree/master/data)
+Download "student.record.csv" data from the following [link](https://github.com/bkoester/PLA/tree/master/data)
 
 Familiarize yourself with the variables.
 
